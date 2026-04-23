@@ -29,8 +29,8 @@ Com o arquivo no local correto, basta solicitar:
 
 ## 🤝 Créditos e Referências
 Este projeto foi inspirado e baseado na skill desenvolvida pelo **Sandeco** (Canal Sandeco). 
-Você pode conferir o vídeo explicativo original sobre como utilizar esta técnica aqui:
-- 📺 [Como usar o Whisper de forma profissional - Vídeo do Sandeco](https://www.youtube.com/watch?v=GkAX4W2Zcfo)
+- 📂 [Repositório Original de Prompts do Sandeco (TRANSCRIPT SPECS)](https://github.com/sandeco/prompts/tree/main/TRANSCRIPT%20SPECS)
+- 📺 [Vídeo Explicativo - Como usar o Whisper de forma profissional](https://www.youtube.com/watch?v=GkAX4W2Zcfo)
 
 ---
 *Desenvolvido sob a Metodologia Prompt Master MBA - Oliveira Labs.*
